@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Calculator project**
 
-- 🌱 I’m currently learning **bootstrap**
+- 🌱 I’m currently learning **BE Computer Sciencee**
 
 - 👯 I’m looking to collaborate on **College Friends**
 
